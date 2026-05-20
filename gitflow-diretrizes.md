@@ -13,3 +13,8 @@
 ### Preparação da Versão Semântica 1.0.0
 - Criada a branch temporária de publicação `release/1.0.0` originada da `develop`.
 - Código congelado para testes finais. Preparação e metadados ajustados para o deploy estável.
+
+### Correção Emergencial de Erros (Hotfix 1.0.1)
+- Identificado travamento crítico de runtime do aplicativo no totem em produção.
+- Criada a branch temporária de correção `hotfix/1.0.1` diretamente a partir da `main`.
+- Resolvida a falha de travamento crítico na leitura de dados na tela inicial.
